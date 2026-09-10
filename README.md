@@ -64,55 +64,55 @@ Performance Marketing • SEO • Growth Strategy • Paid Media • Internation
 
 # Paid Media Campaign Management & Optimization
 
-![Google Ads CPC per ad report](images/images/image24.png)
+![Google Ads CPC per ad report](images/images/image3.png)
 
 - Managed and optimized Google Ads campaigns, generating 262 paid clicks through CPC monitoring, audience targeting refinement, and acquisition-focused campaign strategy.
 - Oversaw campaign performance across niche, high-intent service offerings while maintaining an average CPC of approximately $8.11 in competitive paid search campaigns.
 - Analyzed ad group and keyword-level performance data to improve paid traffic quality, campaign efficiency, and lead generation outcomes for a high-value client.
 
-![Google Ads spend overview](images/images/image23.png)
+![Google Ads spend overview](images/images/image5.png)
 
 - Managed monthly Google Ads budgets exceeding $4.7K while optimizing paid acquisition campaigns for a high-value client, focused on qualified lead generation and revenue growth.
 
-![HubSpot contacts and deals created](images/images/image22.jpg)
+![HubSpot contacts and deals created](images/images/image7.png)
 
 - Managed full-funnel paid acquisition reporting by tracking lifecycle stage progression from lead to opportunity and customer within HubSpot CRM.
 
-![Marketing Qualified Leads chart](images/images/image21.png)
+![Marketing Qualified Leads chart](images/images/image18.png)
 
 - Generated 83 Marketing Qualified Leads (MQLs) between January–May 2026 for a high-value client through strategic paid search.
 - Scaled qualified lead generation to a peak of 23 MQLs in March 2026 through Google Ads optimization, audience targeting refinement, and conversion-focused paid acquisition strategy.
 - Maintained consistent pipeline contribution across Q1–Q2 2026, delivering 20+ qualified leads in multiple months for a high-ticket service offering with revenue-driven acquisition campaigns.
 
-![Paid revenue overview 1](images/images/image20.png)
+![Paid revenue overview 1](images/images/image16.png)
 
-![Paid revenue overview 2](images/images/image19.png)
+![Paid revenue overview 2](images/images/image10.png)
 
 - Increased Q1 paid revenue by approximately 25% YoY through Google Ads optimization, and acquisition-focused paid media strategy.
 - Drove approximately $64K in Q1 revenue through management and optimization of paid acquisition campaigns across Google Ads.
 - Maintained approximately $10K in existing/expansion revenue in Q1 through ongoing campaign optimization, retention-focused initiatives, and account growth support.
 
-![MQL source breakdown](images/images/image18.png)
+![MQL source breakdown](images/images/image24.png)
 
 Generated 14.29% of total Marketing Qualified Leads (MQLs) through paid search campaigns while supporting a diversified acquisition strategy across multiple channels.
 
-![LinkedIn Ads performance](images/images/image17.png)
+![LinkedIn Ads performance](images/images/image21.png)
 
 - Drove over 630,000 impressions and 40,000+ clicks at a strong $1.97 average CPC.
 - Achieved a 6.5% CTR, significantly above typical industry benchmarks, through highly relevant ad creative and strong audience targeting.
 - Generated 82 qualified contacts from paid media over the course of 5 months.
 
-![Stage 1 opportunities chart](images/images/image16.png)
+![Stage 1 opportunities chart](images/images/image4.png)
 
 - Through ongoing campaign optimization and keyword management, paid search became the highest-performing inbound channel, capturing 58% of all Stage 1 opportunities, outperforming organic, direct, and all other channels combined.
 
-![Deal report details](images/images/image15.jpg)
+![Deal report details](images/images/image6.png)
 
 - Discovered a high-intent search term within SEMrush and deployed it within Google Ads, generating $24,742 in closed-won revenue over a 5-month period in 2026. Averaging over $4,120 per corporate deal.
 - Tracked corporate enterprise deals from each keyword click to closed-won status through end-to-end data integration between Google Ads and HubSpot CRM.
 - Managed the full-funnel tracking of $24,742 across 6 corporate contracts through advanced URL tagging and HubSpot CRM mapping to verify exact Google Ads revenue attribution.
 
-![Honey keywords report](images/images/image14.png)
+![Honey keywords report](images/images/image11.png)
 
 - Generated $86,000+ in total attributed CRM pipeline value through the strategic deployment of high-intent B2B keywords, driving 17 deals with an average contract value of over $5,000.
 - Uncovered and scaled a net-new, top-performing keyword search term ("hire an artist to draw") through proactive search term expansion, single-handedly securing 6 closed/active deals and accounting for over $24,700 in revenue.
@@ -137,16 +137,16 @@ Generated 14.29% of total Marketing Qualified Leads (MQLs) through paid search c
 ### Results with Google Ads Strategy
 *(Results shown in Brazilian real)*
 
-![Google Ads campaigns report](images/images/image13.jpg)
+![Google Ads campaigns report](images/images/image22.jpg)
 
-![Meta Ads campaigns report](images/images/image12.png)
+![Meta Ads campaigns report](images/images/image1.jpg)
 
 ---
 
 ### SEO Example
 [Le Cigalon Hotel — hiking package page](https://lecigalon.lu/en/package/forfait-romantique/)
 
-![SEO article for Le Cigalon](images/images/image11.png)
+![SEO article for Le Cigalon](images/images/image9.png)
 
 **Alterations made:**
 
@@ -156,26 +156,28 @@ Wrote an SEO-optimized article featuring hiking trails near the hotel, ensuring 
 
 ### Ads Example — Supplements Company (Instagram Organic Ads)
 
-![Instagram organic ads for supplements company](images/images/image10.png)
+![Instagram organic ads for supplements company](images/images/image14.png)
 
 ---
 
 ### Ads Example — Digital Marketing Companies (French, Facebook Ads)
 
-![French Facebook ad 1](images/images/image9.png)
-![French Facebook ad 2](images/images/image8.png)
-![French Facebook ad 3](images/images/image7.png)
-![French Facebook ad 4](images/images/image6.png)
+![French Facebook ad 1](images/images/image13.jpg)
+![French Facebook ad 2](images/images/image15.jpg)
+![French Facebook ad 3](images/images/image2.png)
+![French Facebook ad 4](images/images/image12.png)
 
 **Ads for hotel (Facebook organic ads):**
 
-![Facebook organic ad for hotel 1](images/images/image5.png)
-![Facebook organic ad for hotel 2](images/images/image4.png)
+![Facebook organic ad for hotel 1](images/images/image8.png)
+![Facebook organic ad for hotel 2](images/images/image23.png)
 
 ---
 
 ### Paid Media Ads Examples (Portuguese Facebook Ad)
 
-![Portuguese Facebook ad 1](images/images/image3.png)
-![Portuguese Facebook ad 2](images/images/image2.png)
-![Portuguese Facebook ad 3](images/images/image1.jpg)
+![Portuguese Facebook ad 1](images/images/image17.png)
+![Portuguese Facebook ad 2](images/images/image19.png)
+![Portuguese Facebook ad 3](images/images/image20.png)
+
+---
