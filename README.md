@@ -61,3 +61,124 @@ Beyond execution, I focus heavily on strategy, positioning, and long-term growth
 Performance Marketing • SEO • Growth Strategy • Paid Media • International Marketing • Audience Acquisition • Conversion Optimization • Analytics & Reporting
 
 ---
+
+
+# Paid Media Campaign Management & Optimization
+
+![Google Ads CPC per ad report](images/image24.png)
+
+- Managed and optimized Google Ads campaigns, generating 262 paid clicks through CPC monitoring, audience targeting refinement, and acquisition-focused campaign strategy.
+- Oversaw campaign performance across niche, high-intent service offerings while maintaining an average CPC of approximately $8.11 in competitive paid search campaigns.
+- Analyzed ad group and keyword-level performance data to improve paid traffic quality, campaign efficiency, and lead generation outcomes for a high-value client.
+
+![Google Ads spend overview](images/image23.png)
+
+- Managed monthly Google Ads budgets exceeding $4.7K while optimizing paid acquisition campaigns for a high-value client, focused on qualified lead generation and revenue growth.
+
+![HubSpot contacts and deals created](images/image22.png)
+
+- Managed full-funnel paid acquisition reporting by tracking lifecycle stage progression from lead to opportunity and customer within HubSpot CRM.
+
+![Marketing Qualified Leads chart](images/image21.png)
+
+- Generated 83 Marketing Qualified Leads (MQLs) between January–May 2026 for a high-value client through strategic paid search.
+- Scaled qualified lead generation to a peak of 23 MQLs in March 2026 through Google Ads optimization, audience targeting refinement, and conversion-focused paid acquisition strategy.
+- Maintained consistent pipeline contribution across Q1–Q2 2026, delivering 20+ qualified leads in multiple months for a high-ticket service offering with revenue-driven acquisition campaigns.
+
+![Paid revenue overview 1](images/image20.png)
+
+![Paid revenue overview 2](images/image19.png)
+
+- Increased Q1 paid revenue by approximately 25% YoY through Google Ads optimization, and acquisition-focused paid media strategy.
+- Drove approximately $64K in Q1 revenue through management and optimization of paid acquisition campaigns across Google Ads.
+- Maintained approximately $10K in existing/expansion revenue in Q1 through ongoing campaign optimization, retention-focused initiatives, and account growth support.
+
+![MQL source breakdown](images/image18.png)
+
+Generated 14.29% of total Marketing Qualified Leads (MQLs) through paid search campaigns while supporting a diversified acquisition strategy across multiple channels.
+
+![LinkedIn Ads performance](images/image17.png)
+
+- Drove over 630,000 impressions and 40,000+ clicks at a strong $1.97 average CPC.
+- Achieved a 6.5% CTR, significantly above typical industry benchmarks, through highly relevant ad creative and strong audience targeting.
+- Generated 82 qualified contacts from paid media over the course of 5 months.
+
+![Stage 1 opportunities chart](images/image16.png)
+
+- Through ongoing campaign optimization and keyword management, paid search became the highest-performing inbound channel, capturing 58% of all Stage 1 opportunities, outperforming organic, direct, and all other channels combined.
+
+![Deal report details](images/image15.png)
+
+- Discovered a high-intent search term within SEMrush and deployed it within Google Ads, generating $24,742 in closed-won revenue over a 5-month period in 2026. Averaging over $4,120 per corporate deal.
+- Tracked corporate enterprise deals from each keyword click to closed-won status through end-to-end data integration between Google Ads and HubSpot CRM.
+- Managed the full-funnel tracking of $24,742 across 6 corporate contracts through advanced URL tagging and HubSpot CRM mapping to verify exact Google Ads revenue attribution.
+
+![Honey keywords report](images/image14.png)
+
+- Generated $86,000+ in total attributed CRM pipeline value through the strategic deployment of high-intent B2B keywords, driving 17 deals with an average contract value of over $5,000.
+- Uncovered and scaled a net-new, top-performing keyword search term ("hire an artist to draw") through proactive search term expansion, single-handedly securing 6 closed/active deals and accounting for over $24,700 in revenue.
+
+---
+
+### General Work Examples (Google, SEO, Social Media Management)
+
+- [X/Twitter ads](https://docs.google.com/document/d/1HVEwTow22saeB6PJ48sPt9bfMnw40CcbmhvSp7iQCPI/edit?tab=t.0)
+- [SEO efforts](https://docs.google.com/document/d/147GdlF_PtS25DXFi-_Kur5PGXNkRJlKAbeBkk80I8uw/edit)
+- [LinkedIn Content Calendar](https://docs.google.com/spreadsheets/d/11RJinHoBkNZLxmSn24GKbKjOjm41hxXTxZsfGxuclHM/edit#gid=0)
+- [Content Calendar example](https://docs.google.com/presentation/d/1mGWOOmz1Xz1zDPytyvTMR04Q6u_zbPFSk2FRkIhOtlM/edit#slide=id.p1) (Content calendar for Marketing Agency)
+- [YouTube Report](https://docs.google.com/presentation/d/1wtC6a27wpLBD9j6Ex49wM8RfT8wbc-KTJx4Gh9tOkxk/edit)
+- [GMB Profile Update Report](https://docs.google.com/document/d/1zRtYmMJzGVrguMIYDZE1B90MTohN8ieUSWse8XAkzvA/edit)
+- [Example 1](https://docs.google.com/document/d/1YTbb1LJnuDFfE-6kCjHF0BWf5G1Z7yuq3ENZkHEkmOI/edit)
+- [Example 2](https://docs.google.com/document/d/1HFe9GxdaWypn8tOonPkAmZaDakjS6X2NBAcJTcHCnr4/edit)
+- [WordPress Website Updates](https://docs.google.com/document/d/1HJNr12eUVyM6aXuJGjMyQOVsbtSlq4E7hcjcgwZdOOM/edit)
+- [Rebranding](https://docs.google.com/document/d/1IxHB167raSezAfZVyNgYZbJ3Q0IsfZEDizWqoAyjp0s/edit?usp=sharing)
+
+---
+
+### Results with Google Ads Strategy
+*(Results shown in Brazilian real)*
+
+![Google Ads campaigns report](images/image13.png)
+
+![Meta Ads campaigns report](images/image12.png)
+
+---
+
+### SEO Example
+[Le Cigalon Hotel — hiking package page](https://lecigalon.lu/en/package/forfait-romantique/)
+
+![SEO article for Le Cigalon](images/image11.png)
+
+**Alterations made:**
+
+Wrote an SEO-optimized article featuring hiking trails near the hotel, ensuring all relevant trails were included to capture organic traffic from users searching for trail information. Conducted keyword research and created the copy following SEO best practices to improve search visibility and drive qualified traffic to the website.
+
+---
+
+### Ads Example — Supplements Company (Instagram Organic Ads)
+
+![Instagram organic ads for supplements company](images/image10.png)
+
+---
+
+### Ads Example — Digital Marketing Companies (French, Facebook Ads)
+
+![French Facebook ad 1](images/image9.png)
+![French Facebook ad 2](images/image8.png)
+![French Facebook ad 3](images/image7.png)
+![French Facebook ad 4](images/image6.png)
+
+**Ads for hotel (Facebook organic ads):**
+
+![Facebook organic ad for hotel 1](images/image5.png)
+![Facebook organic ad for hotel 2](images/image4.png)
+
+---
+
+### Paid Media Ads Examples (Portuguese Facebook Ad)
+
+![Portuguese Facebook ad 1](images/image3.png)
+![Portuguese Facebook ad 2](images/image2.png)
+![Portuguese Facebook ad 3](images/image1.png)
+
+---
