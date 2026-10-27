@@ -66,15 +66,7 @@ Performance Marketing • SEO • Growth Strategy • Paid Media • Internation
 
 ![Google Ads e-commerce campaigns overview](images/images/image25.png)
 
-The client wanted to scale. More budget usually means lower ROAS, so raising spend was the hardest call on this account. I used Search Lost IS (budget) to find which markets could take more spend. Every change followed the same order: fix errors, cut waste, then scale.
-
-**What I changed:**
-
-- Added negative keywords for brand searches that never converted, which were taking 10% to 27% of brand spend.
-- Excluded low-quality placements.
-- Raised the "Shoppers" audience bid adjustment from +10% to +20%. That audience returned 6.42x ROAS against a 3.73x average.
-- Set desktop bids by market: +15% in the US (4.79x ROAS) and -30% in the UK (1.08x ROAS).
-- Moved budget to the campaigns with the best ROAS and to the ones limited by budget.
+The client wanted to scale without losing ROAS. Every change followed one order: fix errors, cut waste, then scale. I added negatives for brand searches that never converted, excluded low-quality placements, raised bids on the best-converting audience and on US desktop while cutting UK desktop, and moved budget to the top ROAS campaigns that were limited by budget.
 
 **Results (last 30 days vs. the previous 30):**
 
@@ -84,10 +76,6 @@ The client wanted to scale. More budget usually means lower ROAS, so raising spe
 | Revenue | £30.6k | £56.0k | +83% |
 | Cost per conversion | £20.11 | £18.65 | -7% |
 | Conversions | ~542 | ~883 | +63% |
-
-- The main brand search campaign got 126% more conversions at a 29% lower cost per conversion.
-
-A low CPC looks good on a report, but it doesn't show whether the sales are profitable. ROAS and acquisition cost do, so those are the numbers I optimize for.
 
 ---
 
