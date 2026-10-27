@@ -64,6 +64,8 @@ Performance Marketing • SEO • Growth Strategy • Paid Media • Internation
 
 # E-commerce Google Ads: Scaling Spend While Raising ROAS
 
+![Google Ads e-commerce campaigns overview](images/images/image25.png)
+
 The client wanted to scale. More budget usually means lower ROAS, so raising spend was the hardest call on this account. I used Search Lost IS (budget) to find which markets could take more spend. Every change followed the same order: fix errors, cut waste, then scale.
 
 **What I changed:**
